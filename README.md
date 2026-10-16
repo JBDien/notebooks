@@ -22,3 +22,12 @@ Notes et formules issues du livre : [Gestion de portefeuille / De Boeck](https:/
 + os.stat()
 + os.walk()
 
+
+## Formation Polars 2.0 :
+Module de formation complet à la librairie [Polars](https://pola.rs) version 2.0 (`Formation_Polars_2.0.ipynb`) :
++ Structures de données et types (dont `Map`, `Float16`, `Enum`)
++ Expressions et contextes (`select`, `with_columns`, `filter`, `group_by`)
++ Fonctions fenêtres, jointures, `pivot` / `unpivot`, séries temporelles
++ API Lazy, optimiseur et moteur streaming (par défaut en 2.0)
++ I/O, SQL, interopérabilité pandas / NumPy / Arrow
++ Migration 1.x → 2.0 et exercices corrigés
